@@ -1,0 +1,251 @@
+CategoryId,BrandId,Name,Price,Volume,id
+5,12,Violaceum Eau de Parfum,32,0.8 fl.oz.,1
+6,8,Oud Du Bois Attar Perfume Oil,50,2 fl.oz.,2
+2,9,Memoirs of a Trespasser Eau de Parfum,6,0.8 fl.oz.,3
+4,22,Explicite Eau de Parfum,36,0.8 fl.oz.,4
+5,9,Egypt Eau de Toilette,48,1 fl.oz.,5
+3,18,Agarwoud Extrait de Parfum,45,1.5 fl.oz.,6
+7,15,V - Accento Eau de Parfum,29,0.57 fl.oz.,7
+2,18,Mure et Musc Eau de Toilette,53,1.5 fl.oz.,8
+6,14,Yuzu Eau de Parfum,48,1.7 fl.oz.,9
+6,16,Still Life Eau de Parfum,7,1.5 fl.oz.,10
+7,16,De Profundis Eau de Parfum,40,1 fl.oz.,11
+4,1,V - Laylati Eau de Parfum,49,1 fl.oz.,12
+1,7,Grev Extrait de Parfum,39,0.25 fl.oz.,13
+2,20,Maderas Eau de Parfum,38,1.7 fl.oz.,14
+5,7,Samharam Parfum,30,1.5 fl.oz.,15
+1,20,Terroni Parfum,23,0.8 fl.oz.,16
+1,8,Mechant Loup Eau de Toilette,49,1 fl.oz.,17
+4,8,Labyrinth Of Spices Extrait de Parfum,54,1.5 fl.oz.,18
+7,22,Megamare Parfum,22,0.8 fl.oz.,19
+7,19,Vetyver Bucolique Eau de Parfum,9,0.57 fl.oz.,20
+7,21,Jardin du Poete Eau de Toilette,21,1.5 fl.oz.,21
+5,4,V - Laylati Eau de Parfum,55,0.8 fl.oz.,22
+4,8,Cinnamon Eau de Toilette,51,1.5 fl.oz.,23
+1,13,Tam Dao - Eau de Toilette,25,0.57 fl.oz.,24
+4,13,Prima T - Eau de Parfum,52,1 fl.oz.,25
+7,13,No. 2 Seve Nouvelle Eau de Parfum,55,0.5 fl.oz.,26
+2,15,Oud Stars - Mamluk Eau de Parfum,22,0.8 fl.oz.,27
+1,3,Aqaysos Eau de Parfum,38,0.57 fl.oz.,28
+2,11,Coze Eau de Parfum,36,0.25 fl.oz.,29
+7,2,Monsieur Beauregard Eau de Parfum,30,2 fl.oz.,30
+6,9,Naias Extrait de Parfum,25,1 fl.oz.,31
+1,14,"Feb. 14, 1912 Eau de Parfum",27,1.5 fl.oz.,32
+6,13,Jasmin Perfume Oil,37,1 fl.oz.,33
+1,19,Black Sukar Attar / perfume oil,42,1.7 fl.oz.,34
+6,11,Patchouli Oud Eau de Parfum,11,1 fl.oz.,35
+4,15,Dead of Night Eau de Parfum,24,1.5 fl.oz.,36
+4,21,Puritas Eau de Parfum,27,0.57 fl.oz.,37
+2,13,Musc Extrait Extrait de Parfum,38,1.5 fl.oz.,38
+5,14,Angelique Eau de Parfum,9,0.5 fl.oz.,39
+5,18,Trimerous Eau de Parfum,23,1.5 fl.oz.,40
+5,17,Santal Noble Eau de Parfum,54,0.5 fl.oz.,41
+7,10,Cuir Venenum Eau de Parfum,48,0.5 fl.oz.,42
+2,10,Freeworld Parfum,24,0.25 fl.oz.,43
+7,19,Eau d Italie - eau de toilette Eau de Toilette,24,1.7 fl.oz.,44
+3,3,Black Vanilla Eau de Parfum,13,0.5 fl.oz.,45
+3,4,Un Coeur en Mai Eau de Parfum,27,0.8 fl.oz.,46
+1,9,Molecule 04 Eau de Toilette,23,1.5 fl.oz.,47
+1,21,Aoud Queen Roses Eau de Parfum,9,0.5 fl.oz.,48
+1,19,Easy To Love Eau de Parfum,57,2 fl.oz.,49
+4,22,Incense Oud Eau de Parfum,24,0.57 fl.oz.,50
+6,4,Vanille Abricot Eau de Toilette,39,0.5 fl.oz.,51
+2,3,Complex Eau de Parfum,54,1.7 fl.oz.,52
+4,2,Nuit Andalouse Eau de Parfum,31,1 fl.oz.,53
+5,15,Rahele Eau de Parfum,38,1 fl.oz.,54
+2,14,Vanille Sauvage de Madagascar Eau de Toilette,20,1.7 fl.oz.,55
+4,22,Agua Magnoliana Eau de Parfum,17,0.57 fl.oz.,56
+1,13,No. 7 Eau de Toilette,8,0.8 fl.oz.,57
+1,10,Bois d Hiver Eau de Parfum,55,0.5 fl.oz.,58
+2,15,Nocturnal Poetry Parfum,49,1.5 fl.oz.,59
+7,20,Oud for Greatness Eau de Parfum,38,1 fl.oz.,60
+1,19,Orangers en Fleurs Eau de Parfum,17,1 fl.oz.,61
+5,17,Agarwoud Extrait de Parfum,58,1 fl.oz.,62
+1,19,Un Bois Vanille Eau de Parfum,59,1.5 fl.oz.,63
+1,20,Trayee Eau de Parfum,39,0.57 fl.oz.,64
+2,7,Hasunoito Parfum,8,2 fl.oz.,65
+1,10,Turquoise perfume oil,44,0.8 fl.oz.,66
+2,5,Dendera Extrait de Parfum,25,0.57 fl.oz.,67
+5,20,La Fille de Berlin Eau de Parfum,58,0.5 fl.oz.,68
+7,4,Amour de Cacao Eau de Toilette,45,0.57 fl.oz.,69
+6,12,Akanesasu Eau de Parfum,59,0.57 fl.oz.,70
+6,9,IA-33 Eau de Parfum,18,1 fl.oz.,71
+2,14,Tenebrae Eau de Parfum,60,1.7 fl.oz.,72
+5,16,Spanish Leather Cologne Eau de Cologne,23,1.7 fl.oz.,73
+3,6,Woody Mood Eau de Parfum,49,1.5 fl.oz.,74
+3,5,Vetiver Parfum Cologne,23,1 fl.oz.,75
+5,5,Musk Khabib Extrait de Parfum,23,0.5 fl.oz.,76
+2,18,Remarkable People Eau de Parfum,16,1.7 fl.oz.,77
+5,21,Al Oudh Eau de Parfum,6,1.7 fl.oz.,78
+7,12,Tempo Eau de Parfum,5,0.57 fl.oz.,79
+1,20,Red Hoba Eau de Parfum,57,1 fl.oz.,80
+4,2,Eau Divine Eau de Parfum,24,1.5 fl.oz.,81
+2,11,Knize Ten Eau de Toilette,35,0.8 fl.oz.,82
+3,7,Tabacco Toscano Cologne Eau de Cologne,58,0.57 fl.oz.,83
+6,17,Peau de Peche Eau de Parfum,38,1 fl.oz.,84
+4,17,20 Years Eau de Parfum,42,1 fl.oz.,85
+6,2,Qatar Extrait de parfum,32,0.57 fl.oz.,86
+6,8,JF Eau de Toilette,23,1 fl.oz.,87
+2,15,Cologne Sologne Eau de Cologne,20,0.25 fl.oz.,88
+7,4,Oud Stars - Malesia Eau de Parfum,15,1 fl.oz.,89
+6,17,1499 Eau de Parfum,56,1.5 fl.oz.,90
+2,19,Les Annees 25 Bis Eau de Parfum,18,2.5 fl.oz.,91
+3,11,Perdizione Eau de Parfum,50,0.5 fl.oz.,92
+3,4,Bois Sacre Parfum,12,0.25 fl.oz.,93
+4,12,Clair Obscur Eau de Parfum,15,0.57 fl.oz.,94
+7,18,Black Jade Eau de Parfum,7,0.5 fl.oz.,95
+2,22,Cristina Eau de Parfum,6,1 fl.oz.,96
+3,16,Suede Eau de Parfum,40,1.7 fl.oz.,97
+7,22,Yawahada (Soft Skin) Eau de Parfum,15,1.7 fl.oz.,98
+6,6,Turquoise perfume oil,30,2.5 fl.oz.,99
+4,4,Oud Satin Mood Eau de Parfum,10,0.57 fl.oz.,100
+2,15,Aria di Capri Eau de Parfum,21,1 fl.oz.,101
+1,1,Eau Duelle - Eau de Parfum,26,1.7 fl.oz.,102
+5,15,White Madera Eau de Parfum,30,1.5 fl.oz.,103
+3,5,Musk Eau de Toilette,60,0.8 fl.oz.,104
+6,19,Ambre Topkapi Eau de Parfum,56,1.5 fl.oz.,105
+7,11,Forest Eau de Parfum,10,0.8 fl.oz.,106
+5,2,Issara Extrait de Parfum,37,0.8 fl.oz.,107
+6,4,Red Tobacco Eau de Parfum,31,0.5 fl.oz.,108
+6,20,Rosenlust Eau de Parfum,26,0.8 fl.oz.,109
+3,11,Figment Man Eau de Parfum,33,1.5 fl.oz.,110
+7,9,Yesterday Haze Eau de Parfum,19,0.8 fl.oz.,111
+1,13,Eau Duelle - Eau de Parfum,13,2.5 fl.oz.,112
+1,8,Tartan Extrait de Parfum,21,2 fl.oz.,113
+7,14,Horizon Eau de Parfum,35,1 fl.oz.,114
+5,12,Rouge Avignon Eau de Parfum,25,1 fl.oz.,115
+1,2,Do Son - Eau de Toilette,49,0.57 fl.oz.,116
+3,7,L Aimee Eau de Parfum,31,0.5 fl.oz.,117
+5,2,New York Intense Eau de Parfum,16,0.8 fl.oz.,118
+5,2,Blamage Parfum Extrait,11,0.8 fl.oz.,119
+1,16,Graine de Joie Eau de Parfum,21,1 fl.oz.,120
+2,6,Fleurs d Oranger Eau de Parfum,46,0.8 fl.oz.,121
+4,14,Patchouli Leaves Eau de Parfum,15,1 fl.oz.,122
+1,8,Amber Chocolate Eau de Parfum,46,0.57 fl.oz.,123
+1,18,Mad About You Eau de Parfum,39,0.57 fl.oz.,124
+1,11,Odeur 71 Eau de Toilette,52,2 fl.oz.,125
+3,18,Dojima Eau de Parfum,33,0.57 fl.oz.,126
+2,3,Lipstick Fever Eau de Parfum,6,0.8 fl.oz.,127
+7,2,Luci Ed Ombre Eau de Parfum,7,0.8 fl.oz.,128
+6,17,Tuscan Leather Intense Eau de Parfum,8,1 fl.oz.,129
+1,22,Acqua di Sale Eau de Parfum,8,2 fl.oz.,130
+4,16,Sans Un Mot Extrait de Parfum,53,2.5 fl.oz.,131
+1,15,The Noir 29 Eau de Parfum,28,1 fl.oz.,132
+2,12,Jasmin et Cigarette Eau de Parfum,17,1.5 fl.oz.,133
+1,13,Oliver Eau de Parfum,26,2 fl.oz.,134
+5,4,Cedrat Enivrant Cologne Absolue,25,0.5 fl.oz.,135
+7,5,Leather Patchouli Eau de Parfum,29,0.8 fl.oz.,136
+5,14,XJ Richwood Eau de Parfum,56,0.8 fl.oz.,137
+3,22,Melt my Heart Eau de Parfum,56,0.57 fl.oz.,138
+3,3,Yu Son Eau de Parfum,43,1 fl.oz.,139
+1,1,Geisha Rouge - Eau de Parfum,11,2 fl.oz.,140
+6,8,Incense Oud Eau de Parfum,27,2 fl.oz.,141
+6,7,Tuscan Leather Intense Eau de Parfum,25,0.57 fl.oz.,142
+4,2,Eau Duelle - Eau de Parfum,8,1 fl.oz.,143
+7,20,Tokyo Eau de Parfum,11,1.7 fl.oz.,144
+5,19,French Cancan - Eau de Parfum,41,1 fl.oz.,145
+4,19,Aurum Eau de Parfum,20,1.5 fl.oz.,146
+2,19,Rosas Frescas Eau de Parfum,33,1.7 fl.oz.,147
+3,22,Eau My Soul Eau de Parfum,53,0.57 fl.oz.,148
+5,17,Nero Eau de Parfum,45,2 fl.oz.,149
+7,4,Marinis Parfum,14,2 fl.oz.,150
+4,11,Rose Noir Eau de Parfum,25,0.57 fl.oz.,151
+5,18,Love Eau de Parfum,30,0.5 fl.oz.,152
+4,21,Desert Rosewood Perfume Concentrate,21,0.25 fl.oz.,153
+1,11,Gold Knight Eau de Parfum,6,0.5 fl.oz.,154
+3,15,Norne Parfum Extrait,6,2 fl.oz.,155
+6,7,Dia Man Eau de Parfum,25,1 fl.oz.,156
+1,17,Hauto Parfum Extrait,21,1 fl.oz.,157
+5,7,Lust In Paradise Eau de Parfum,42,0.57 fl.oz.,158
+3,12,Capua Eau de Parfum,28,2.5 fl.oz.,159
+2,4,Milano Caffe Eau de Parfum,10,1.5 fl.oz.,160
+3,13,Bowmakers Pocket Perfume Perfume Oil,13,2 fl.oz.,161
+3,14,Figaro Eau de Toilette,24,2 fl.oz.,162
+7,9,Le Roi Empereur Eau de Parfum,27,1 fl.oz.,163
+3,14,Ma Nishtana Extrait de Parfum,16,2.5 fl.oz.,164
+5,16,Journey Man Eau de Parfum,36,0.8 fl.oz.,165
+4,5,Oumma Eau de Parfum,45,1.5 fl.oz.,166
+1,15,Bois Blonds Cologne Absolue,47,0.8 fl.oz.,167
+7,7,Bois d Hiver Eau de Parfum,16,0.8 fl.oz.,168
+3,21,Aqua Universalis Forte Eau de Parfum,32,1 fl.oz.,169
+7,16,New York Eau de Toilette,19,1.7 fl.oz.,170
+2,17,Wild Rose Aoud Eau de Parfum,56,0.8 fl.oz.,171
+5,19,Black Parfum Extrait,37,1 fl.oz.,172
+5,21,Musk Khabib Extrait de Parfum,44,2.5 fl.oz.,173
+7,15,Memoir Man Eau de Parfum,60,1 fl.oz.,174
+3,7,Wode Eau de Parfum,31,0.8 fl.oz.,175
+6,22,Ennui Noir Parfum Extrait,57,2 fl.oz.,176
+5,14,Greek Keys Extrait de Parfum,25,1.5 fl.oz.,177
+7,12,But Not Today Extrait de Parfum,30,1 fl.oz.,178
+1,20,Red Ishq Eau de Parfum,11,1.7 fl.oz.,179
+4,16,No. 1 Tonic Blanc Eau de Parfum,48,1 fl.oz.,180
+5,12,Foin Fraichement Coupe Eau de Parfum,54,1.7 fl.oz.,181
+7,15,Violette Fumee,5,0.57 fl.oz.,182
+1,17,Aroon Sawat Eau de Parfum,16,1 fl.oz.,183
+2,7,Menthe Fraiche Eau de Parfum,57,0.57 fl.oz.,184
+3,16,Keep Glazed Eau de Parfum,24,1.5 fl.oz.,185
+4,21,Dear Polly Eau de Parfum,25,1 fl.oz.,186
+1,5,Acqua e Zucchero Body Cream Scented Body Cream,20,1 fl.oz.,187
+4,15,Honey & Lemon Eau de Parfum,25,0.57 fl.oz.,188
+2,2,Acqua Decima Eau de Toilette,16,1.7 fl.oz.,189
+6,3,XJ Homme Eau de Parfum,42,0.8 fl.oz.,190
+3,4,Nightingale Extrait de Parfum,28,1 fl.oz.,191
+5,19,Jasmin Rouge Eau de Parfum,11,2.5 fl.oz.,192
+6,8,Fou d Absinthe Eau de Parfum,59,0.57 fl.oz.,193
+1,22,Bois Blonds Cologne Absolue,49,2.5 fl.oz.,194
+6,6,08 - Seylon Eau de Parfum,17,1.5 fl.oz.,195
+4,10,Kai - Eau de Parfum Eau de Parfum Spray,19,1 fl.oz.,196
+2,13,Empressa Eau de Toilette,15,1 fl.oz.,197
+5,19,Kasbah Eau de Parfum,17,0.25 fl.oz.,198
+6,10,Panthea Eau de Parfum,41,1.7 fl.oz.,199
+2,16,Molecule 03 Eau de Toilette,51,1 fl.oz.,200
+2,22,Tuberoza Extrait de Parfum,38,1.5 fl.oz.,201
+2,18,Five O Clock Au Gingembre Eau de Parfum,30,0.57 fl.oz.,202
+3,15,Each Other Eau de Parfum,59,0.5 fl.oz.,203
+7,13,Fuego Flores Eau de Parfum,41,0.8 fl.oz.,204
+2,17,Lili Laa Eau de Parfum,31,2.5 fl.oz.,205
+3,15,Il Vs Iris Eau de Parfum,46,2 fl.oz.,206
+3,1,Dolce Amalfi Eau de Parfum,60,1.5 fl.oz.,207
+3,4,Douceur de Vanille Eau de Parfum,8,1 fl.oz.,208
+3,13,Tigerlust Pure Parfum,25,0.57 fl.oz.,209
+5,12,Honour Man Eau de Parfum,31,0.8 fl.oz.,210
+2,8,Amber Absolutely Eau de Parfum,39,0.5 fl.oz.,211
+3,7,Jardins d Armide Eau de Parfum,22,0.57 fl.oz.,212
+4,1,Gold Woman Eau de Parfum,48,1 fl.oz.,213
+3,5,Le Vainqueur Eau de Parfum,15,0.8 fl.oz.,214
+5,12,Capri Eau de Parfum,29,0.5 fl.oz.,215
+2,11,Aqua Universalis Scented Hair Mist,22,0.8 fl.oz.,216
+3,21,No. 89 Eau de Toilette,30,1 fl.oz.,217
+2,11,Cuir - Les Nombres d Or Eau de Parfum,23,0.5 fl.oz.,218
+4,10,Musk S Eau de Parfum,21,0.8 fl.oz.,219
+3,3,Itasca Eau de Parfum,58,0.57 fl.oz.,220
+4,15,Lady Vengeance Eau de Parfum,49,1 fl.oz.,221
+2,22,Jungle Jezebel Extrait de Parfum,14,1 fl.oz.,222
+1,1,The Bewitching Yasmine Eau de Parfum,12,2.5 fl.oz.,223
+7,5,Rose Oud Eau de Parfum,44,0.8 fl.oz.,224
+7,13,Geisha Vanilla Hinoki Roll-on perfume oil,25,1.5 fl.oz.,225
+5,6,Neroli Portofino Eau de Parfum,22,0.8 fl.oz.,226
+1,1,La Chasse Aux Papillons EXTREME Eau de Parfum,43,1 fl.oz.,227
+6,8,Terroni Parfum,26,1.7 fl.oz.,228
+4,9,Lyric for Women Eau de Parfum,36,0.57 fl.oz.,229
+4,17,Oud Abramad Eau de Parfum,39,0.57 fl.oz.,230
+1,2,The Ruthless Countess Dorothea Eau de Parfum,48,0.8 fl.oz.,231
+4,11,1828 Travel Spray Eau de Parfum,16,1.7 fl.oz.,232
+6,13,La Cautiva Eau de Parfum,52,0.25 fl.oz.,233
+7,17,Honour Woman Eau de Parfum,54,1.5 fl.oz.,234
+3,1,Arbole Eau de Parfum,36,0.57 fl.oz.,235
+3,16,Fleurs de Citronnier Eau de Parfum,5,2 fl.oz.,236
+3,15,Suede Hand Lotion,15,1 fl.oz.,237
+2,3,Moss Cologne Eau de Parfum,6,1.7 fl.oz.,238
+6,12,Black Citrus Eau de Parfum,8,0.57 fl.oz.,239
+3,14,Mecca Balsam Eau de Parfum,43,0.8 fl.oz.,240
+2,21,Kintsugi Eau de Parfum,28,1.5 fl.oz.,241
+2,2,Arsalan Parfum,14,1.5 fl.oz.,242
+7,2,Lune Feline Eau de Parfum,17,1.5 fl.oz.,243
+2,7,Silver Musk Parfum Extrait,22,2.5 fl.oz.,244
+3,21,Moscow Mule Eau de Parfum,10,1 fl.oz.,245
+2,22,Louve Eau de Parfum - ...,60,2.5 fl.oz.,246
+4,3,Oud Stars - Alexandria III Parfum,31,0.57 fl.oz.,247
+6,6,Zeste de Gingembre Eau de Parfum,52,0.25 fl.oz.,248
+2,3,Bois Dore Eau de Parfum,12,1 fl.oz.,249
+5,12,What We Do In Paris Is Secret Eau de Parfum,20,0.5 fl.oz.,250
